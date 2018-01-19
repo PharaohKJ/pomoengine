@@ -34,4 +34,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'dotenv'
   spec.add_dependency 'mqtt'
   spec.add_dependency 'eventmachine'
+  spec.add_dependency 'aws-sdk-dynamodb'
 end
