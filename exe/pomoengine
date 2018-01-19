@@ -4,4 +4,4 @@ require 'pomoengine'
 
 Dotenv.load
 
-# GithubBackupper::CLI.start(ARGV)
+Pomoengine::CLI.start(ARGV)
